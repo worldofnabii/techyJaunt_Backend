@@ -3,7 +3,9 @@
 // and isHappy to a boolean.
 
 const bunny ={
-    name: 'Fluffy',
+    name: "Fluffy",
     age: 2,
     isHappy: true
 }
+
+console.log(bunny);
